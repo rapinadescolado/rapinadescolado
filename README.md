@@ -1,7 +1,7 @@
 ## A wild rapina has appeared!
 <h2 align="center">R A P I N A</h2>
 
-<h4 align="center">/ / / / / / / / / / / / / /</h4>
+<h4 align="center">/  /  /  /  /  /  /  /  /  /  /  /  /  /</h4>
 
 ![thumbnail](https://github.com/rapinadescolado/rapinadescolado/assets/163008675/848f7ed3-9d44-4e4b-871b-fba8ff7a76b3)
 
